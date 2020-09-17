@@ -3,6 +3,10 @@
 Trabalho de Processo e modelagem de Software para reforço dos conceitos básicos de POO.
 Usei o mesmo exemplo base proposto e adaptei aplicando os mesmos conceitos na linguagem Python.
 
+##Executando
+
+Em qualquer interpretador Python3, rode `python3 app.py`. Não tem misterio.
+
 ##Abstração
 
 Serve para representar um conceito. A classe abstrata `FigGeometrica` que serve de base para outras figuras. Uso as classes `Circulo` e `Quadrado`. E na class `FigDraw` responsavel p desenhar as figuras.
