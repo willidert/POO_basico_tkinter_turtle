@@ -1,4 +1,4 @@
-# POO básico com Tkinter e Turle
+# POO básico com Tkinter e Turtle
 
 Trabalho de Processo e modelagem de Software para reforço dos conceitos básicos de POO.
 Usei o mesmo exemplo base proposto e adaptei aplicando os mesmos conceitos na linguagem Python.
